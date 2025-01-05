@@ -7,4 +7,4 @@ open neotree    - C-n
 close neotree   - C-m
 lsp hover       - K (shift-k)
 lsp goto def    - gd
-lsp code action - <space>ca
+lsp code action - <leader>ca
